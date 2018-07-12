@@ -67,4 +67,6 @@ input_two = microbit.pin13
 analog_one = microbit.pin2
 analog_two = microbit.pin1
 analog_three = microbit.pin0
+
+relay = microbit.pin16
 ```
